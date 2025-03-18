@@ -31,7 +31,7 @@ const Header = () => {
               src="/portfolio/images/logo.svg" 
               width={40}
               height={40}
-              alt="Joseph Kim-Suzuki" 
+              alt="Logo" 
               />
             </a>
           </h1>

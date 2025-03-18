@@ -12,53 +12,53 @@ import SkillCard from "./Skillcard";
 
 const skillItem = [
     {
-      imgSrc: '/images/html.svg',
+      imgSrc: '/portfolio/images/html.svg',
       label: 'HTML',
       desc: 'Front End Programming'
     },
     {
-      imgSrc: '/images/css3.svg',
+      imgSrc: '/portfolio/images/css3.svg',
       label: 'CSS',
       desc: 'User Interface'
     },
     {
-      imgSrc: '/images/javascript.svg',
+      imgSrc: '/portfolio/images/javascript.svg',
       label: 'JavaScript',
       desc: 'Interaction'
     },
     {
-      imgSrc: '/images/ruby.svg',
+      imgSrc: '/portfolio/images/ruby.svg',
       label: 'Ruby',
       desc: 'Back End Programming'
     },
     
     {
-      imgSrc: '/images/mysql.svg',
+      imgSrc: '/portfolio/images/mysql.svg',
       label: 'MySQL',
       desc: 'Database'
     },
     {
-      imgSrc: '/images/docker.svg',
+      imgSrc: '/portfolio/images/docker.svg',
       label: 'Docker',
       desc: 'Containerization'
     },
     {
-      imgSrc: '/images/grafana.svg',
+      imgSrc: '/portfolio/images/grafana.svg',
       label: 'Grafana',
       desc: 'Monitoring & Observability'
     },
     {
-      imgSrc: '/images/kubernetes.svg',
+      imgSrc: '/portfolio/images/kubernetes.svg',
       label: 'Kubernetes',
       desc: 'Orchestration'
     },
     {
-      imgSrc: '/images/react.svg',
+      imgSrc: '/portfolio/images/react.svg',
       label: 'React',
       desc: 'Framework'
     },
     {
-      imgSrc: '/images/tailwindcss.svg',
+      imgSrc: '/portfolio/images/tailwindcss.svg',
       label: 'TailwindCSS',
       desc: 'User Interface'
     },
